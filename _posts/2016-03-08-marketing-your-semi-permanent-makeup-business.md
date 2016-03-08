@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Marketing your Semi Permanent Makeup Business.
-datePublished: '2016-03-08T13:56:18.980Z'
-dateModified: '2016-03-08T13:56:12.372Z'
+datePublished: '2016-03-08T13:57:45.335Z'
+dateModified: '2016-03-08T13:57:42.266Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-08-marketing-your-semi-permanent-makeup-business.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-marketing-your-semi-permanent-makeup-business.md
-published: true
 url: marketing-your-semi-permanent-makeup-business/index.html
 _type: Article
 
@@ -33,3 +33,4 @@ So, I'll be aiming to post up to the blog once a week or so. It may be more freq
 Thanks for reading.
 
 Rich.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0614ea5d-7500-4f0c-b64d-16be094f9e2a.jpg)
