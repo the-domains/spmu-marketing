@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SPMU-marketing]]></title>
         <description><![CDATA[SPMU-marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spmu-marketing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 13:56:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 13:58:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spmu-marketing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Marketing your Semi Permanent Makeup Business.</p>]]></description>
-            <link>undefinedmarketing-your-semi-permanent-makeup-business/index.html</link>
+            <link>https://thegrid.ai/spmu-marketing/marketing-your-semi-permanent-makeup-business/index.html</link>
             <guid isPermaLink="false">ece3b57d-69fd-4dd4-86db-d5cca4d36249</guid>
-            <pubDate>Tue, 08 Mar 2016 13:56:18 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 13:57:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
